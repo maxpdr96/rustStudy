@@ -1,3 +1,8 @@
-fn main(){
-    print!("Hello, world!");
+fn main() {
+    println!(
+        "{}",
+        "These
+                   are
+                      three lines"
+    );
 }
